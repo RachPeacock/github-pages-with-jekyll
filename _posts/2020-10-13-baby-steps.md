@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Baby steps"
 date: 2020-10-13
 ---
